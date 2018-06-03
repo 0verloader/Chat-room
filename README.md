@@ -2,12 +2,6 @@
 a chat room implemented using websockets and socket.io framework
 
 
-# A peer to peer network for the masses 
-
-An overlay network that can be based anywhere and accessed by anyone.
-Main goal is to make an efficient, safe and fast network for sharing data with
-people you share interests with. Give it a try!
-
 ## Getting Started
 
 Just clone the project
@@ -31,5 +25,5 @@ node server
 ```
 
 ```
-in any browser ip:5005
+in any browser open ip:5005
 ```
